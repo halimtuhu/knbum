@@ -4,7 +4,7 @@
       <h3 class="section-title">About KNB</h3>
       <span class="section-divider"></span>
       <p class="section-description">
-        Ini background dari Halim Tuhu Prasetyo
+        Ini background dari Halim Tuhu Prasetyo allalala
       </p>
     </div>
 
