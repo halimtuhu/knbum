@@ -5,7 +5,7 @@
 
       <div class="col-lg-8 offset-lg-4">
         <div class="section-header wow fadeIn" data-wow-duration="1s">
-          <h3 class="section-title">Product Featuress</h3>
+          <h3 class="section-title">PRODUCT</h3>
           <span class="section-divider"></span>
         </div>
       </div>
