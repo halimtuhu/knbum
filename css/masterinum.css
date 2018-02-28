@@ -66,3 +66,69 @@
     padding: 0 0 30px 0;
   }
 }
+
+
+/* CSS Untuk tabel */
+table{box-shadow:0px 0px 5px #aaa;} /*sedikit bayangan yang soft*/
+table th{
+    padding:10px; 
+    font-weight:bold; 
+    background:#33B4E4; 
+    color:#fff; 
+    text-transform:uppercase;
+}
+
+table td{
+    padding:10px 5px;
+}
+
+@media (min-width:700px){
+/*UNTUK DEVICE YANG LEBARNYA LEBIH DARI 700PX */
+/*karena tabel kita yang tadi itu untuk device layar lebar, maka taruh saja semuanya disini...*/
+    table th{
+        padding:10px; 
+        font-weight:bold; 
+        background:#33B4E4; 
+        color:#fff; 
+        text-transform:uppercase;
+    }
+    table td{
+        padding:10px 5px;
+    }
+}
+ 
+@media (max-width:700px){
+/*UNTUK DEVICE YANG LEBARNYA KURANG DARI 700PX*/
+ 
+}
+
+@media (max-width:700px){
+    table,tbody,tr,td{
+        display:block; 
+        position:relative;
+    }
+    tr{border-bottom:3px solid #fff;}
+    th{display:none;}
+    td:before{
+        display:block;
+        content:attr(data-content); /*mengisi data dengan value yang ada di atribut tersebut*/
+        position:absolute;
+        text-indent:0px;
+        width:80px; /*disesuaikan dengan kebutuhan*/
+ 
+        /*desainnya bisa disamakan seperti tag TH*/
+        background:#33b4e4; 
+        color:#fff; 
+        text-transform:uppercase; 
+        font-weight:bold; 
+        height:100%; 
+        line-height:40px; 
+        padding:0px 10px;
+    }
+    td{
+        text-indent:120px; /*disesuaikan dengan kebutuhan*/
+        line-height:40px; /*line-height disamakan dengan td:before, supaya tampilan teksnya rata*/
+        background:#f7f7f7;
+    }
+}
+

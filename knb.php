@@ -5,7 +5,7 @@
 
       <div class="col-lg-8 offset-lg-4">
         <div class="section-header wow fadeIn" data-wow-duration="1s">
-          <h3 class="section-title">PRODUCT</h3>
+          <h3 class="section-title">Kemitraan Negara Berkembang (KNB) at Universitas Negri Malang (UM)</h3>
           <span class="section-divider"></span>
         </div>
       </div>
@@ -30,13 +30,21 @@
           </div>
           <div class="col-lg-6 col-md-6 box wow fadeInRight" data-wow-delay="0.2s">
             <div class="icon"><i class="ion-social-buffer-outline"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur teleca starter sinode park ledo.</p>
+            <h4 class="title"><a href="">Objectives:</a></h4>
+            <p class="description">
+                Contributing in human resource development in the developing countries.<br>
+                Promoting deeper cultural understanding among developing countries.<br>
+                Strengthening the relationship and cooperation among developng countries.
+            </p>
           </div>
           <div class="col-lg-6 col-md-6 box wow fadeInRight" data-wow-delay="0.3s">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum dinoun trade capsule.</p>
+            <h4 class="title"><a href="">Scholarship’s Coverage:</a></h4>
+            <p class="description">
+                Accommodation<br>
+                Healtf Insurance<br>
+                Monthly allowance Rp....
+              </p>
           </div>
         </div>
 
