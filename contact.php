@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row wow fadeInUp">
 
-      <div class="col-lg-4 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="contact-about">
           <h3>Contact</h3>
           <p>Stay connect with us</p>
@@ -15,7 +15,7 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-4">
+      <div class="col-lg-3 col-md-6">
         <div class="info">
           <div>
             <i class="ion-ios-location-outline"></i>
@@ -40,8 +40,8 @@
         </div>
       </div>
 
-        <div class="col-lg-5 col-md-8">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.349620280228!2d112.6162893149048!3d-7.9627739942648015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e788281bdd08839%3A0xc915f268bffa831f!2sMalang+State+University!5e0!3m2!1sen!2sid!4v1519730646460" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <div class="col-lg-5 col-md-12">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.349620280228!2d112.6162893149048!3d-7.9627739942648015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e788281bdd08839%3A0xc915f268bffa831f!2sMalang+State+University!5e0!3m2!1sen!2sid!4v1519730646460" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
       </div>
 
