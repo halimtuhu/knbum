@@ -1,5 +1,12 @@
 /* Contact Section
 --------------------------------*/
+
+#contact .map {
+  width: 400px;
+  height: 400px;
+  background: yellow;
+}
+
 #contact {
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 60px 0;

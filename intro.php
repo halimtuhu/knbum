@@ -3,7 +3,7 @@
   <div class="intro-text">
     <h2>Kemitraan Negara Berkembang</h2>
     <p>Program Kemitraan Negera Berkembangan di Universitas Negeri Malang</p>
-    <a href="#about" class="btn-get-started scrollto">Get Started</a>
+    <a href="#about" class="btn-get-started scrollto">Learn More</a>
   </div>
 
   <!-- <div class="product-screens">
