@@ -57,10 +57,21 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#background">Background</a></li>
-          <li><a href="#knb">KNB</a></li>
-          <li><a href="#masterinum">Master in UM</a></li>
-          <li><a href="#requirement">Requirement</a></li>
+          <li><a href="#">Background</a></li>
+          <li><a href="#">KNB</a></li>
+          <li class="menu-has-children"><a href="#">Programs</a>
+            <ul>
+              <li><a href="#">S1 in UM</a></li>
+              <li><a href="#">Master in UM</a></li>
+            </ul>
+          </li>
+          <li class="menu-has-children"><a href="#">Apply</a>
+            <ul>
+              <li><a href="#">Eligibilities</a></li>
+              <li><a href="#">Procedures</a></li>
+              <li><a href="#">Required Documents</a></li>
+            </ul>
+          </li>
           <li><a href="#contact">Contact Us</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -88,6 +99,16 @@
       Master in UM Section
     ============================-->
     <?php include 'masterinum.php' ?>
+
+    <!--==========================
+      Eligibilities Section
+    ============================-->
+    <?php include 'eligible.php' ?>
+
+    <!--==========================
+      Procedures Section
+    ============================-->
+    <?php include 'procedures.php' ?>
 
     <!--==========================
       Requirement Section
