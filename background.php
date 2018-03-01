@@ -1,7 +1,7 @@
 <section id="about" class="section-bg">
   <div class="container-fluid">
     <div class="section-header">
-      <h3 class="section-title">Background KNB</h3>
+      <h3 class="section-title">About KNB</h3>
       <span class="section-divider"></span>
       <!-- 
       <p class="section-description">

@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>KNB - UM</title>
+  <title>Kemitraan Negara Berkembang - Universitas Negeri Malang</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+  <link href="img/logoKNB.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -57,7 +57,7 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#">Background</a></li>
+          <li><a href="#">About</a></li>
           <li><a href="#">KNB</a></li>
           <li class="menu-has-children"><a href="#">Programs</a>
             <ul>
