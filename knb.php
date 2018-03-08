@@ -11,7 +11,7 @@
       </div>
 
       <div class="col-lg-4 col-md-5 features-img">
-        <img src="img/product-features.png" alt="" class="wow fadeInLeft">
+        <img src="img/um-rektorat.jpg" alt="" class="wow fadeInLeft">
       </div>
 
       <div class="col-lg-8 col-md-7 ">

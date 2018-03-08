@@ -3,16 +3,16 @@
     <div class="section-header">
       <h3 class="section-title">About KNB</h3>
       <span class="section-divider"></span>
-      <!-- 
+      <!--
       <p class="section-description">
-        Bisa diisi 
+        Bisa diisi
       </p>
       -->
     </div>
 
     <div class="row">
       <div class="col-lg-6 about-img wow fadeInLeft">
-        <img src="img/about-img.jpg" alt="">
+        <img src="img/logoKNB.png" alt="">
       </div>
 
       <div class="col-lg-6 content wow fadeInRight">
