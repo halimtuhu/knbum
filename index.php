@@ -32,7 +32,7 @@
   <link href="css/masterinum.css" rel="stylesheet">
   <link href="css/requirement.css" rel="stylesheet">
 
-  <!-- Galeri Stylesheet File 
+  <!-- Galeri Stylesheet File
     <script type="text/javascript" src="js/fb/jquery.js"></script>
     <link rel="stylesheet" href="js/fb/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
     <script type="text/javascript" src="js/fb/jquery.fancybox.pack.js?v=2.1.0"></script>
@@ -70,21 +70,22 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">KNB</a></li>
-          <li class="menu-has-children"><a href="#">Programs</a>
+          <li><a href="#about">About</a></li>
+          <li><a href="#features">KNB</a></li>
+          <li class="menu-has-children"><a href="#masterinum">Programs</a>
             <ul>
-              <li><a href="#">S1 in UM</a></li>
-              <li><a href="#">Master in UM</a></li>
+              <li><a href="#masterinum">Master in UM</a></li>
+              <li><a href="#bachelorinum">S1 in UM</a></li>
             </ul>
           </li>
-          <li class="menu-has-children"><a href="#">Apply</a>
+          <li class="menu-has-children"><a href="#eligible">Apply</a>
             <ul>
-              <li><a href="#">Eligibilities</a></li>
-              <li><a href="#">Procedures</a></li>
-              <li><a href="#">Required Documents</a></li>
+              <li><a href="#eligible">Eligibilities</a></li>
+              <li><a href="#precedures">Procedures</a></li>
+              <li><a href="#required">Required Documents</a></li>
             </ul>
           </li>
+          <li><a href="#galeri">Galleries</a></li>
           <li><a href="#contact">Contact Us</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -148,7 +149,7 @@
       <div class="row">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy; Copyright <strong>Avilon</strong>. All Rights Reserved
+            &copy; Copyright <strong>Kantor Hubungan Internasional Universitas Negeri Malang</strong>.<br>All Rights Reserved
           </div>
           <div class="credits">
             <!--
@@ -164,8 +165,11 @@
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
             <a href="#intro" class="scrollto">Home</a>
             <a href="#about" class="scrollto">About</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Use</a>
+            <a href="#features" class="scrollto">KNB</a>
+            <a href="#masterinum" class="scrollto">Programs</a>
+            <a href="#eligible" class="scrollto">Apply</a>
+            <a href="#galeri">Galleries</a>
+            <a href="#contact">Contact</a>
           </nav>
         </div>
       </div>

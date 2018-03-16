@@ -1,6 +1,6 @@
 <section id="advanced-features">
   <!-- Sesi untuk Procedures -->
-    <div class="features-row">
+    <div class="features-row" id="precedures">
       <div class="container">
         <div class="row">
           <div class="col-12">

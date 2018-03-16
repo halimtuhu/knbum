@@ -16,7 +16,7 @@
 
 <section id="advanced-features">
   <!-- Sesi untuk Procedures -->
-    <div class="features-row">
+    <div class="features-row" id="galeri">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -27,56 +27,56 @@
               <h2>Gallery </h2>
               <h3> </h3>
               <p class="wow fadeInRight" data-wow-duration="0.5s">
-                
+
                   <a class="fancybox" href='img/gallery/1.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/1.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
-                  
+
                   <a class="fancybox" href='img/gallery/2.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/2.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
-                  
+
                   <a class="fancybox" href='img/gallery/3.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/3.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
-                  
+
                   <a class="fancybox" href='img/gallery/4.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/4.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
 
                   <a class="fancybox" href='img/gallery/5.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/5.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
                   <br>
                   <br>
 
                   <a class="fancybox" href='img/gallery/6.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/6.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
 
                   <a class="fancybox" href='img/gallery/7.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/7.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
 
                   <a class="fancybox" href='img/gallery/8.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/8.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
 
                   <a class="fancybox" href='img/gallery/9.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/9.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
 
                   <a class="fancybox" href='img/gallery/10.jpg'
-                  data-fancybox-group="gallery" > <img class="img-polaroid" 
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/10.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
 

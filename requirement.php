@@ -1,6 +1,6 @@
 <section id="advanced-features">
   <!-- Sesi untuk Requirements Documents -->
-    <div class="features-row section-bg">
+    <div id="required" class="features-row section-bg">
       <div class="container">
         <div class="row">
           <div class="col-12">

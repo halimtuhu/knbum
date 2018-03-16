@@ -3,7 +3,7 @@
   <div class="features-row">
     <div class="container">
       <div class="row">
-        <div class="col-12">
+        <div class="col-12" id="masterinum">
           <!-- <img class="advanced-feature-img-right wow fadeInRight" src="img/advanced-feature-1.jpg" alt=""> -->
           <div class="wow fadeInLeft">
             <h2>Master Programs (S2) in Universitas Negeri Malang (UM)</h2>
@@ -62,7 +62,7 @@
     </tr>
 </table>
             </p>
-              <h2>Bachelor Programs (S1) in Universitas Negeri Malang (UM)</h2>
+              <h2 id="bachelorinum">Bachelor Programs (S1) in Universitas Negeri Malang (UM)</h2>
             <h3>List of courses provided in Universitas Negeri Malang Bachelor Degree (S1) Program :</h3>
             <p>
             <!-- Bisa ditambahkan informasi -->

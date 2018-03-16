@@ -1,5 +1,5 @@
 <section id="advanced-features">
-  <div class="features-row section-bg">
+  <div class="features-row section-bg" id="eligible">
       <div class="container">
         <div class="row">
           <div class="col-12">
