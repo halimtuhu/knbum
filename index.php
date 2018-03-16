@@ -32,6 +32,19 @@
   <link href="css/masterinum.css" rel="stylesheet">
   <link href="css/requirement.css" rel="stylesheet">
 
+  <!-- Galeri Stylesheet File 
+    <script type="text/javascript" src="js/fb/jquery.js"></script>
+    <link rel="stylesheet" href="js/fb/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/fb/jquery.fancybox.pack.js?v=2.1.0"></script>
+    <script type="text/javascript">$(document).ready(function() {
+        /*
+         *  Simple image gallery. Uses default settings
+         */
+
+        $('.knbum').fancybox();
+      });
+    </script> -->
+
   <!-- =======================================================
     Theme Name: Avilon
     Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
@@ -114,6 +127,11 @@
       Requirement Section
     ============================-->
     <?php include 'requirement.php' ?>
+
+    <!--==========================
+      Procedures Section
+    ============================-->
+    <?php include 'galeri.php' ?>
 
     <!--==========================
       Contact Section
