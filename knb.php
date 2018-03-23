@@ -18,7 +18,7 @@
 
         <div class="row">
           <p>
-            &nbsp; &nbsp; &nbsp;Kemitraan Negara Berkembang <b>“Developing Countries Partnership” (KNB)</b> is a scholarship program offered by the Indonesian Government to potential students from developing countries to earn their <em>Master Degree</em> at one of 16 prominent universities in Indonesia. Universitas Negri Malang (UM), one of the leading universities in Indonesia, has been working with the Indonesian Government to implement and manage the KNB scholarship since 2008. There are 20 KNB grantees on Universitas Negri Malang, origin from various countries: <em>Thailand, Comoro, Timor Leste, Sierra Leonne, Uganda, Papua New Guinea, Tanzania, Madagascar, Mauritius, Palestine.</em>
+            &nbsp; &nbsp; &nbsp;Kemitraan Negara Berkembang <b>“Developing Countries Partnership” (KNB)</b> is a scholarship program offered by the Indonesian Government to potential students from developing countries to earn their <em>Bachelor and Master Program</em> at one of 16 prominent universities in Indonesia. Universitas Negeri Malang (UM), one of the leading universities in Indonesia, has been working with the Indonesian Government to organize the KNB scholarship since 2008. The duration of sholarship is directly linked to the duration of the academic programs, such as <b>Indonesian Language Course and Master Preparatory Program (max. 12 months), Master Program (max. 24 months), and Bachelor Program (max. 48 months)</b>. There has been more than 40 KNB awardees at Universitas Negeri Malang from various countries: <em>Ukraine, Tunisia, Thailand, Comoro, East Timorese, Sierra Leonne, Uganda, Papua New Guinea, Tanzania, Madagascar, Mauritius, Palestine.</em>
           </p>
 
           <!--
@@ -38,18 +38,20 @@
             <div class="icon"><i class="ion-social-buffer-outline"></i></div>
             <h4 class="title"><a href="">Objectives :</a></h4>
             <p class="description">
-                Contributing in human resource development in the developing countries.<br>
-                Promoting deeper cultural understanding among developing countries.<br>
-                Strengthening the relationship and cooperation among developng countries.
+                <ul align="left">
+                  <li>Contributing in human resource development in the developing countries.</li>
+                  <li>Promoting deeper cultural understanding among developing countries.</li>
+                  <li>Strengthening the relationship and cooperation among developng countries.</li>
+                </ul>
             </p>
           </div>
           <div class="col-lg-6 col-md-6 box wow fadeInRight" data-wow-delay="0.3s">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
             <h4 class="title"><a href="">Scholarship’s Coverage :</a></h4>
             <p class="description">
-                Accommodation<br>
-                Healtf Insurance<br>
-                Monthly allowance Rp....
+                Living Allowance<br>
+                Research Allowance<br>
+                Book Allowance
               </p>
           </div>
         </div>

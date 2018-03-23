@@ -1,8 +1,8 @@
 
 <head>
-    <script type="text/javascript" src="js/fb/jquery.js"></script>
-    <link rel="stylesheet" href="js/fb/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
-    <script type="text/javascript" src="js/fb/jquery.fancybox.pack.js?v=2.1.0"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <link rel="stylesheet" href="js/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.0"></script>
     <script type="text/javascript">$(document).ready(function() {
         /*
          *  Simple image gallery. Uses default settings
@@ -27,7 +27,7 @@
               <h2>Gallery </h2>
               <h3> </h3>
               <p class="wow fadeInRight" data-wow-duration="0.5s">
-
+<body>
                   <a class="fancybox" href='img/gallery/1.jpg'
                   data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/1.jpg'
@@ -79,7 +79,62 @@
                   data-fancybox-group="gallery" > <img class="img-polaroid"
                   src='img/gallery/10.jpg'
                   width='200' height='150' alt="" /> &nbsp;</a>
+                  <br>
+                  <br>
 
+
+                  <a class="fancybox" href='img/gallery/11.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/11.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/12.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/12.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/13.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/13.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/14.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/14.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/15.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/15.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+                  <br>
+                  <br>
+
+                  <a class="fancybox" href='img/gallery/16.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/16.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/17.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/17.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/18.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/18.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/19.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/19.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+
+                  <a class="fancybox" href='img/gallery/20.jpg'
+                  data-fancybox-group="gallery" > <img class="img-polaroid"
+                  src='img/gallery/20.jpg'
+                  width='200' height='150' alt="" /> &nbsp;</a>
+</body>
               </p>
               <p>
                 <br>

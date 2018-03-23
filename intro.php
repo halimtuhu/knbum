@@ -1,8 +1,8 @@
 <section id="intro">
 
   <div class="intro-text">
-    <h2>Kemitraan Negara Berkembang</h2>
-    <p>Program Kemitraan Negera Berkembangan di Universitas Negeri Malang</p>
+    <h2>KNB<br>Kemitraan Negara Berkembang</h2>
+    <p>at Universitas Negeri Malang</p>
     <a href="#about" class="btn-get-started scrollto">Learn More</a>
   </div>
 

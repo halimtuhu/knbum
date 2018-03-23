@@ -6,71 +6,16 @@
         <div class="col-12" id="masterinum">
           <!-- <img class="advanced-feature-img-right wow fadeInRight" src="img/advanced-feature-1.jpg" alt=""> -->
           <div class="wow fadeInLeft">
-            <h2>Master Programs (S2) in Universitas Negeri Malang (UM)</h2>
-            <h3>List of courses provided in Universitas Negeri Malang Master Degree (S2) Program :</h3>
+            <p>
+                <h2 id="bachelorinum">Bachelor Programs (S1) in Universitas Negeri Malang (UM)</h2>
+            <h3>List of 58 Bachelor programs offered by Universitas Negeri Malang:</h3>
             <p>
             <!-- Bisa ditambahkan informasi -->
             </p>
             <p>
               <table cellspacing="0" align="center" cellpadding="1">
     <tr>
-        <th colspan="3"><center>List of Courses S2</center></th>
-    </tr>
-    <tr>
-        <td data-content="List of Courses">
-            <ul>
-            <li>Guidance and Counselling</li>
-            <li>Learning Technologies</li>
-            <li>Education Management</li>
-            <li>Indonesian Language Education</li>
-            <li>English Language Education</li>
-            <li>Biology Education</li>
-            <li>Economics Education</li>
-            <li>Physics Education</li>
-            <li>Geography Education</li>
-            <li>Vocational Education</li>
-            </ul>
-        </td>
-        <td data-content="List of Courses">
-          <ul>
-            <li>Chemistry Education</li>
-            <li>Non-Formal Education</li>
-            <li>Mathematics Education</li>
-            <li>Business and Management Education</li>
-            <li>Elementary Education</li>
-            <li>Sports Education</li>
-            <li>Management</li>
-            <li>Acounting</li>
-            <li>Economics Education</li>
-            <li>History Education</li>
-          </ul>
-        </td>
-        <td data-content="List of Courses">
-          <ul>
-            <li>Visual Art Education</li>
-            <li>Arabic Language Education</li>
-            <li>Language Education</li>
-            <li>Physics</li>
-            <li>Biology</li>
-            <li>Pancasila and Civics Education</li>
-            <li>Mechanical Engineering</li>
-            <li>Civil Engineering</li>
-            <li>Special Needs Education</li>
-            <li>Early Childhood Education</li>
-          </ul>
-        </td>
-    </tr>
-</table>
-            </p>
-              <h2 id="bachelorinum">Bachelor Programs (S1) in Universitas Negeri Malang (UM)</h2>
-            <h3>List of courses provided in Universitas Negeri Malang Bachelor Degree (S1) Program :</h3>
-            <p>
-            <!-- Bisa ditambahkan informasi -->
-            </p>
-            <p>
-              <table cellspacing="0" align="center" cellpadding="1">
-    <tr>
-        <th colspan="3"><center>List of Courses S1</center></th>
+        <th colspan="3"><center>List of Programs</center></th>
     </tr>
     <tr>
         <td data-content="List of Courses">
@@ -145,6 +90,64 @@
     </tr>
 </table>
             </p>
+
+            <h2 id="masterinum2">Master Programs (S2) in Universitas Negeri Malang (UM)</h2>
+            <h3>List of 30 Master programs offered by Universitas Negeri Malang:</h3>
+            <p>
+            <!-- Bisa ditambahkan informasi -->
+            </p>
+            <p>
+              <table cellspacing="0" align="center" cellpadding="1">
+    <tr>
+        <th colspan="3"><center>List of Programs</center></th>
+    </tr>
+    <tr>
+        <td data-content="List of Courses">
+            <ul>
+            <li>Guidance and Counselling</li>
+            <li>Learning Technologies</li>
+            <li>Education Management</li>
+            <li>Indonesian Language Education</li>
+            <li>English Language Education</li>
+            <li>Biology Education</li>
+            <li>Economics Education</li>
+            <li>Physics Education</li>
+            <li>Geography Education</li>
+            <li>Vocational Education</li>
+            </ul>
+        </td>
+        <td data-content="List of Courses">
+          <ul>
+            <li>Chemistry Education</li>
+            <li>Non-Formal Education</li>
+            <li>Mathematics Education</li>
+            <li>Business and Management Education</li>
+            <li>Elementary Education</li>
+            <li>Sports Education</li>
+            <li>Management</li>
+            <li>Acounting</li>
+            <li>Economics Education</li>
+            <li>History Education</li>
+          </ul>
+        </td>
+        <td data-content="List of Courses">
+          <ul>
+            <li>Visual Art Education</li>
+            <li>Arabic Language Education</li>
+            <li>Language Education</li>
+            <li>Physics</li>
+            <li>Biology</li>
+            <li>Pancasila and Civics Education</li>
+            <li>Mechanical Engineering</li>
+            <li>Civil Engineering</li>
+            <li>Special Needs Education</li>
+            <li>Early Childhood Education</li>
+          </ul>
+        </td>
+    </tr>
+</table>
+            </p>
+            
           </div>
         </div>
       </div>

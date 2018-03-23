@@ -31,19 +31,20 @@
   <link href="css/knb.css" rel="stylesheet">
   <link href="css/masterinum.css" rel="stylesheet">
   <link href="css/requirement.css" rel="stylesheet">
+  <link href="css/tombol.css" rel="stylesheet">
 
-  <!-- Galeri Stylesheet File
-    <script type="text/javascript" src="js/fb/jquery.js"></script>
-    <link rel="stylesheet" href="js/fb/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
-    <script type="text/javascript" src="js/fb/jquery.fancybox.pack.js?v=2.1.0"></script>
+  <!-- Galeri Stylesheet File -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <link rel="stylesheet" href="js/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.0"></script>
     <script type="text/javascript">$(document).ready(function() {
         /*
          *  Simple image gallery. Uses default settings
          */
 
-        $('.knbum').fancybox();
+        $('.fancybox').fancybox();
       });
-    </script> -->
+    </script>
 
   <!-- =======================================================
     Theme Name: Avilon
@@ -62,7 +63,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto"><img src="img/logoKNB.png" alt="KNB" height="40px"> <img src="img/um.png" alt="UM" height="40px"></a></h1>
+        <h1><a href="#intro" class="scrollto"><img src="img/logo_ristek.png" alt="ristek" height="40px"> <img src="img/logoKNB.png" alt="KNB" height="40px"> <img src="img/um.png" alt="UM" height="40px"></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#intro"><img src="img/logo.png" alt="" title=""></a> -->
       </div>
@@ -74,8 +75,8 @@
           <li><a href="#features">KNB</a></li>
           <li class="menu-has-children"><a href="#masterinum">Programs</a>
             <ul>
-              <li><a href="#masterinum">Master in UM</a></li>
-              <li><a href="#bachelorinum">S1 in UM</a></li>
+              <li><a href="#bachelorinum">Bachelor Program</a></li>
+              <li><a href="#masterinum2">Master Program</a></li>
             </ul>
           </li>
           <li class="menu-has-children"><a href="#eligible">Apply</a>
@@ -193,6 +194,6 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
-
+  <script src="js/jquery.js"></script>
 </body>
 </html>

@@ -7,16 +7,15 @@
             <img class="advanced-feature-img-left" src="img/advanced-feature-2.jpg" alt="">
             <div class="wow fadeInRight">
               <i class="ion-ios-paper-outline" class="wow fadeInRight" data-wow-duration="0.5s"></i>
-              <br>
-              <h2>Procedures </h2>
-              <h3>The procedures that must be done to join this program :</h3>
+              <h2><br>Procedures </h2>
+              <h3></h3>
               <p class="wow fadeInRight" data-wow-duration="0.5s">
                 <ol>
-                  <li><a href="http://www.knb.dikti.go.id/lib/file/Invitation_Letter.pdf" target="_blank"><b>Download</b></a> the Invitation Letter in the KNB scholarship website (<a href="http://www.knb.dikti.go.id" target="_blank">www.knb.dikti.go.id</a>).</li>
-                  <li>Submit the <em>Invitation Letter, Passport, Academic Certificates and Academic Transcripts</em> to the Indonesian Embassy to receive the recommendation letter.</li>
-                  <li>Complete the online application process.</li>
-                  <li>Selection process.</li>
-                  <li>Selection Results Announcement. It will be announced online on the <b>KNB Scholarship official</b> website and officially announced through the Indonesia Embassy publication network.</li>
+                  <li><a href="http://www.knb.dikti.go.id/lib/file/Invitation_Letter.pdf" target="_blank"><b>Download</b></a> the Invitation Letter in the KNB scholarship website (<a href="http://www.knb.dikti.go.id" target="_blank">www.knb.dikti.go.id</a>)</li>
+                  <li>Submit the <em>Invitation Letter, Passport, Academic Certificates and Academic Transcripts</em> to the Indonesian Embassy to receive the recommendation letter</li>
+                  <li>Complete the online application process</li>
+                  <li>Selection process</li>
+                  <li>Final Announcement will be available online on the <a href="http://oia.um.ac.id/knb/">KNB Scholarship Official</a> website.</li>
                 </ol>
               </p>
               <p>

@@ -1,4 +1,4 @@
-s<section id="contact">
+<section id="contact">
   <div class="container">
     <div class="row wow fadeInUp">
 

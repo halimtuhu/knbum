@@ -7,8 +7,8 @@
             <img class="advanced-feature-img-right wow fadeInRight" src="img/advanced-feature-3.jpg" alt="">
             <div class="wow fadeInLeft">
               <i class="ion-ios-albums-outline"></i>
-              <h2>Required Documents </h2>
-              <h3>Requirements regarding documents can be seen in the following conditions :</h3>
+              <h2><br>Required Documents </h2>
+              <h3></h3>
               <p><ol>
                   <li>Recommendation Letter from the Indonesian Embassy in the respective country.</li>
                   <li>Nomination Letter from the respective government official (<em><b>Ministry of Education or other related Government Agency</b></em>).</li>
