@@ -1,5 +1,4 @@
 <section id="advanced-features">
-
   <div class="features-row">
     <div class="container">
       <div class="row">
@@ -7,7 +6,7 @@
           <!-- <img class="advanced-feature-img-right wow fadeInRight" src="img/advanced-feature-1.jpg" alt=""> -->
           <div class="wow fadeInLeft">
             <p>
-                <h2 id="bachelorinum">Bachelor Programs (S1) in Universitas Negeri Malang (UM)</h2>
+                <h2 id="bachelorinum" style="padding-top: 80px">Bachelor Programs (S1) in Universitas Negeri Malang (UM)</h2>
             <h3>List of 58 Bachelor programs offered by Universitas Negeri Malang:</h3>
             <p>
             <!-- Bisa ditambahkan informasi -->
@@ -91,7 +90,7 @@
 </table>
             </p>
 
-            <h2 id="masterinum2">Master Programs (S2) in Universitas Negeri Malang (UM)</h2>
+            <h2 id="masterinum2" style="padding-top: 80px;">Master Programs (S2) in Universitas Negeri Malang (UM)</h2>
             <h3>List of 30 Master programs offered by Universitas Negeri Malang:</h3>
             <p>
             <!-- Bisa ditambahkan informasi -->
@@ -147,7 +146,7 @@
     </tr>
 </table>
             </p>
-            
+
           </div>
         </div>
       </div>
